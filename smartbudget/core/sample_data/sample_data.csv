@@ -1,0 +1,226 @@
+date,amount,category,description
+2023-01-22,1512.57,Room Rent,Room Rent expense
+2023-01-17,287.36,Grocery,Grocery expense
+2023-01-01,88.09,Utilities,Utilities expense
+2023-01-25,65.54,Internet,Internet expense
+2023-01-14,53.66,Mobile,Mobile expense
+2023-01-14,104.37,Transport,Transport expense
+2023-01-27,167.51,Insurance - Health,Insurance - Health expense
+2023-01-02,98.33,Insurance - House,Insurance - House expense
+2023-01-28,22.2,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-01-16,1533.55,Room Rent,Room Rent expense
+2023-01-14,263.91,Grocery,Grocery expense
+2023-01-11,84.31,Utilities,Utilities expense
+2023-01-04,57.47,Internet,Internet expense
+2023-01-10,59.86,Mobile,Mobile expense
+2023-01-02,112.7,Transport,Transport expense
+2023-01-27,229.24,Insurance - Health,Insurance - Health expense
+2023-01-02,82.4,Insurance - House,Insurance - House expense
+2023-01-12,21.03,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-03-23,1523.58,Room Rent,Room Rent expense
+2023-03-17,219.05,Grocery,Grocery expense
+2023-03-01,117.88,Utilities,Utilities expense
+2023-03-26,56.73,Internet,Internet expense
+2023-03-24,42.78,Mobile,Mobile expense
+2023-03-06,98.53,Transport,Transport expense
+2023-03-07,188.65,Insurance - Health,Insurance - Health expense
+2023-03-20,72.76,Insurance - House,Insurance - House expense
+2023-03-24,25.18,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-04-12,1495.05,Room Rent,Room Rent expense
+2023-04-26,354.85,Grocery,Grocery expense
+2023-04-17,113.93,Utilities,Utilities expense
+2023-04-27,69.01,Internet,Internet expense
+2023-04-11,37.39,Mobile,Mobile expense
+2023-04-10,105.84,Transport,Transport expense
+2023-04-28,235.78,Insurance - Health,Insurance - Health expense
+2023-04-06,79.88,Insurance - House,Insurance - House expense
+2023-04-16,35.64,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-05-10,1569.18,Room Rent,Room Rent expense
+2023-05-20,384.61,Grocery,Grocery expense
+2023-05-19,112.03,Utilities,Utilities expense
+2023-05-28,55.52,Internet,Internet expense
+2023-05-23,36.07,Mobile,Mobile expense
+2023-05-01,102.13,Transport,Transport expense
+2023-05-09,151.63,Insurance - Health,Insurance - Health expense
+2023-05-05,92.84,Insurance - House,Insurance - House expense
+2023-05-28,35.18,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-05-05,1437.2,Room Rent,Room Rent expense
+2023-05-10,335.82,Grocery,Grocery expense
+2023-05-17,108.45,Utilities,Utilities expense
+2023-05-19,69.84,Internet,Internet expense
+2023-05-07,31.49,Mobile,Mobile expense
+2023-05-24,116.39,Transport,Transport expense
+2023-05-09,243.72,Insurance - Health,Insurance - Health expense
+2023-05-12,90.69,Insurance - House,Insurance - House expense
+2023-05-25,36.96,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-06-11,1439.51,Room Rent,Room Rent expense
+2023-06-07,371.58,Grocery,Grocery expense
+2023-06-15,100.52,Utilities,Utilities expense
+2023-06-21,55.22,Internet,Internet expense
+2023-06-02,32.67,Mobile,Mobile expense
+2023-06-06,95.2,Transport,Transport expense
+2023-06-12,179.47,Insurance - Health,Insurance - Health expense
+2023-06-05,74.98,Insurance - House,Insurance - House expense
+2023-06-21,20.44,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-07-16,1421.36,Room Rent,Room Rent expense
+2023-07-23,211.57,Grocery,Grocery expense
+2023-07-09,90.92,Utilities,Utilities expense
+2023-07-23,53.52,Internet,Internet expense
+2023-07-28,41.68,Mobile,Mobile expense
+2023-07-12,96.29,Transport,Transport expense
+2023-07-11,239.53,Insurance - Health,Insurance - Health expense
+2023-07-09,93.72,Insurance - House,Insurance - House expense
+2023-07-19,24.55,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-08-09,1531.47,Room Rent,Room Rent expense
+2023-08-28,330.91,Grocery,Grocery expense
+2023-08-18,88.57,Utilities,Utilities expense
+2023-08-05,58.23,Internet,Internet expense
+2023-08-21,45.44,Mobile,Mobile expense
+2023-08-24,103.58,Transport,Transport expense
+2023-08-13,183.96,Insurance - Health,Insurance - Health expense
+2023-08-16,97.54,Insurance - House,Insurance - House expense
+2023-08-11,23.37,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-09-03,1584.69,Room Rent,Room Rent expense
+2023-09-07,397.08,Grocery,Grocery expense
+2023-09-23,114.87,Utilities,Utilities expense
+2023-09-11,65.82,Internet,Internet expense
+2023-09-24,51.71,Mobile,Mobile expense
+2023-09-12,90.91,Transport,Transport expense
+2023-09-12,201.62,Insurance - Health,Insurance - Health expense
+2023-09-20,97.94,Insurance - House,Insurance - House expense
+2023-09-02,25.45,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-10-01,1595.89,Room Rent,Room Rent expense
+2023-10-15,325.0,Grocery,Grocery expense
+2023-10-14,92.41,Utilities,Utilities expense
+2023-10-13,78.11,Internet,Internet expense
+2023-10-03,51.34,Mobile,Mobile expense
+2023-10-10,107.18,Transport,Transport expense
+2023-10-20,166.98,Insurance - Health,Insurance - Health expense
+2023-10-28,93.01,Insurance - House,Insurance - House expense
+2023-10-10,39.92,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-11-28,1558.64,Room Rent,Room Rent expense
+2023-11-06,205.41,Grocery,Grocery expense
+2023-11-20,90.11,Utilities,Utilities expense
+2023-11-01,64.55,Internet,Internet expense
+2023-11-21,33.58,Mobile,Mobile expense
+2023-11-21,109.49,Transport,Transport expense
+2023-11-22,192.9,Insurance - Health,Insurance - Health expense
+2023-11-12,80.73,Insurance - House,Insurance - House expense
+2023-11-25,21.82,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2023-12-13,1485.1,Room Rent,Room Rent expense
+2023-12-06,237.09,Grocery,Grocery expense
+2023-12-08,93.13,Utilities,Utilities expense
+2023-12-21,65.14,Internet,Internet expense
+2023-12-26,48.69,Mobile,Mobile expense
+2023-12-15,92.11,Transport,Transport expense
+2023-12-17,162.99,Insurance - Health,Insurance - Health expense
+2023-12-25,71.69,Insurance - House,Insurance - House expense
+2023-12-10,39.57,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-01-11,1494.7,Room Rent,Room Rent expense
+2024-01-25,324.03,Grocery,Grocery expense
+2024-01-17,119.87,Utilities,Utilities expense
+2024-01-05,51.71,Internet,Internet expense
+2024-01-04,46.34,Mobile,Mobile expense
+2024-01-17,110.29,Transport,Transport expense
+2024-01-10,208.54,Insurance - Health,Insurance - Health expense
+2024-01-01,78.35,Insurance - House,Insurance - House expense
+2024-01-13,38.2,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-02-01,1446.81,Room Rent,Room Rent expense
+2024-02-24,297.84,Grocery,Grocery expense
+2024-02-24,96.17,Utilities,Utilities expense
+2024-02-02,66.45,Internet,Internet expense
+2024-02-26,33.03,Mobile,Mobile expense
+2024-02-20,91.4,Transport,Transport expense
+2024-02-13,235.11,Insurance - Health,Insurance - Health expense
+2024-02-24,77.67,Insurance - House,Insurance - House expense
+2024-02-09,31.01,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-03-24,1504.55,Room Rent,Room Rent expense
+2024-03-20,348.96,Grocery,Grocery expense
+2024-03-01,94.82,Utilities,Utilities expense
+2024-03-28,55.42,Internet,Internet expense
+2024-03-09,37.36,Mobile,Mobile expense
+2024-03-11,113.77,Transport,Transport expense
+2024-03-16,220.72,Insurance - Health,Insurance - Health expense
+2024-03-19,73.75,Insurance - House,Insurance - House expense
+2024-03-19,22.68,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-04-12,1487.44,Room Rent,Room Rent expense
+2024-04-12,345.29,Grocery,Grocery expense
+2024-04-03,111.11,Utilities,Utilities expense
+2024-04-25,63.65,Internet,Internet expense
+2024-04-16,32.95,Mobile,Mobile expense
+2024-04-21,108.82,Transport,Transport expense
+2024-04-07,217.65,Insurance - Health,Insurance - Health expense
+2024-04-07,97.86,Insurance - House,Insurance - House expense
+2024-04-13,26.23,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-05-11,1467.29,Room Rent,Room Rent expense
+2024-05-02,227.78,Grocery,Grocery expense
+2024-05-21,88.52,Utilities,Utilities expense
+2024-05-28,74.01,Internet,Internet expense
+2024-05-26,55.9,Mobile,Mobile expense
+2024-05-13,95.0,Transport,Transport expense
+2024-05-22,178.38,Insurance - Health,Insurance - Health expense
+2024-05-28,85.15,Insurance - House,Insurance - House expense
+2024-05-22,24.16,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-06-27,1597.81,Room Rent,Room Rent expense
+2024-06-08,395.15,Grocery,Grocery expense
+2024-06-28,97.32,Utilities,Utilities expense
+2024-06-28,73.16,Internet,Internet expense
+2024-06-20,32.53,Mobile,Mobile expense
+2024-06-20,95.81,Transport,Transport expense
+2024-06-11,228.55,Insurance - Health,Insurance - Health expense
+2024-06-13,94.43,Insurance - House,Insurance - House expense
+2024-06-03,33.12,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-07-28,1599.67,Room Rent,Room Rent expense
+2024-07-09,336.4,Grocery,Grocery expense
+2024-07-09,83.83,Utilities,Utilities expense
+2024-07-15,71.73,Internet,Internet expense
+2024-07-27,43.5,Mobile,Mobile expense
+2024-07-25,91.32,Transport,Transport expense
+2024-07-25,194.58,Insurance - Health,Insurance - Health expense
+2024-07-26,85.88,Insurance - House,Insurance - House expense
+2024-07-10,32.09,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-08-23,1537.41,Room Rent,Room Rent expense
+2024-08-22,362.92,Grocery,Grocery expense
+2024-08-16,116.73,Utilities,Utilities expense
+2024-08-06,59.69,Internet,Internet expense
+2024-08-01,39.54,Mobile,Mobile expense
+2024-08-20,113.47,Transport,Transport expense
+2024-08-19,159.42,Insurance - Health,Insurance - Health expense
+2024-08-10,91.4,Insurance - House,Insurance - House expense
+2024-08-19,27.27,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-09-07,1535.46,Room Rent,Room Rent expense
+2024-09-25,316.09,Grocery,Grocery expense
+2024-09-03,118.94,Utilities,Utilities expense
+2024-09-20,55.99,Internet,Internet expense
+2024-09-21,37.28,Mobile,Mobile expense
+2024-09-10,104.17,Transport,Transport expense
+2024-09-19,202.75,Insurance - Health,Insurance - Health expense
+2024-09-16,96.61,Insurance - House,Insurance - House expense
+2024-09-09,33.48,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-10-05,1443.52,Room Rent,Room Rent expense
+2024-10-25,341.12,Grocery,Grocery expense
+2024-10-17,105.82,Utilities,Utilities expense
+2024-10-27,58.11,Internet,Internet expense
+2024-10-22,50.59,Mobile,Mobile expense
+2024-10-23,114.94,Transport,Transport expense
+2024-10-02,220.4,Insurance - Health,Insurance - Health expense
+2024-10-09,78.06,Insurance - House,Insurance - House expense
+2024-10-12,20.33,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-11-17,1496.91,Room Rent,Room Rent expense
+2024-11-18,393.6,Grocery,Grocery expense
+2024-11-09,105.88,Utilities,Utilities expense
+2024-11-26,69.61,Internet,Internet expense
+2024-11-19,47.62,Mobile,Mobile expense
+2024-11-06,108.21,Transport,Transport expense
+2024-11-16,216.63,Insurance - Health,Insurance - Health expense
+2024-11-08,98.32,Insurance - House,Insurance - House expense
+2024-11-21,38.33,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
+2024-12-15,1408.75,Room Rent,Room Rent expense
+2024-12-06,372.03,Grocery,Grocery expense
+2024-12-01,92.22,Utilities,Utilities expense
+2024-12-01,60.68,Internet,Internet expense
+2024-12-27,58.53,Mobile,Mobile expense
+2024-12-27,97.48,Transport,Transport expense
+2024-12-19,192.37,Insurance - Health,Insurance - Health expense
+2024-12-06,99.17,Insurance - House,Insurance - House expense
+2024-12-25,27.71,House Expenses - Grass Cutting,House Expenses - Grass Cutting expense
